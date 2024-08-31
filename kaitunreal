@@ -43,7 +43,7 @@ _G.Fruit = {
 }
 _G.Mastery = { 
     ['Melee'] = true,
-    ['Sword'] = false,
+    ['Sword'] = true,
     ['Fruit'] = false
 }
 _G.Setting = {
