@@ -13,11 +13,13 @@ _G.Melee = {
 }
 _G.Sword = { 
     ['Saber'] = true,
+    ['Yama'] = true,
+    ['Tushita'] = true,
+    ['Cursed Dual Katana'] = true,
     ['Midnight Blade'] = false,
     ['Shisui'] = false,
     ['Saddi'] = false,
     ['Wando'] = false,
-    ['Yama'] = true,
     ['Koko'] = false,
     ['Rengoku'] = false,
     ['Canvander'] = false,
@@ -26,9 +28,7 @@ _G.Sword = {
     ['SpikeyTrident'] = false,
     ['Hallow Scryte'] = false,
     ['Dark Dagger'] = false,
-    ['Tushita'] = true,
     ['True Triple Katana'] = false,
-    ['Cursed Dual Katana'] = true,
     ['Shark Anchor'] = false
 }
 _G.Gun = {
