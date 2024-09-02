@@ -38,7 +38,7 @@ _G.Gun = {
     ['Serpent Bow'] = false
 }
 _G.Fruit = { 
-    ['Main Fruit'] = {'Dragon-Dragon'},
+    ['Main Fruit'] = {'Magma-Magma'},
     ['Select Fruit'] = {'Flame-Flame','Ice-Ice','Sand-Sand','Dark-Dark','Light-Light','Magma-Magma','Quake-Quake','Spider-Spider'}
 }
 _G.Mastery = { 
